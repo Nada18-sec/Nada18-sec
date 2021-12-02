@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nada18-sec
-- 👀 I’m interested in Pentesting, Red & Blue Teaming,Cyber Security research and Etgical Hacking 
+- 👀 I’m interested in Pentesting, Red & Blue Teaming,Cyber Security research and Ethical Hacking 
 - 🌱 I’m currently learning offensive security and defensive principles
 - 💞️ I’m looking to collaborate on any project that improves my knowledge in the said fields
 - 📫 How to reach me follow me on Twitter (@AdamChemFe) and LinkedIn (@Adam Chemiron)
